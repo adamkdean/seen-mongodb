@@ -2,6 +2,11 @@
 
 This repository contains two scripts: `mongodb.sh` which allows easy and simplified management of the mongo database container, and `mongodb-express.sh` which allows easy management of development-only-worthy administration tool.
 
+## How to
+
+1. Run `./mongodb.sh`  
+2. Run `./mongodb-express.sh` (optional) 
+
 ## Requirements
 
 Tested and working with Docker 1.11.0
